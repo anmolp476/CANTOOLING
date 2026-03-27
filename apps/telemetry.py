@@ -117,9 +117,7 @@ def evaluate_risk(temp_frame):
     with open(raw_signals_path, 'w') as json_file:
         json.dump(signals_combined , json_file, indent=4)
 
-    risks = {
-        ris
-    }
+    risks = []
     for rule in RISK_RULES:
         check_signals = signals_combined.copy()
         if rule['check'](check_signals):
@@ -164,7 +162,7 @@ def main():
                     if frame_id in [384, 644, 645, 658, 1549, 2, 1057, 1477]:
                         temp_frame[frame_id] = signals
 
-                    # Once we have all 3 messages, evaluate
+                    # Once we have all 8 messages, evaluate
                     if all(k in temp_frame for k in [384, 644, 645, 658, 1549, 2, 1057, 1477]):
                         result = evaluate_risk(temp_frame) 
                         if result['Risk Level'] != 'Safe':
