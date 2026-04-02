@@ -1,0 +1,327 @@
+[
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:01.424324+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:01.525444+00:00",
+        "risk_type": "unsafe_turn"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:02.497112+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:02.643958+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:02.662761+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:02.723240+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:02.825160+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:03.775108+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:03.879945+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:03.899420+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:03.914485+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.055311+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.113008+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.212182+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.311360+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.412707+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.512331+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.633723+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.711309+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.812788+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:04.911518+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:05.011805+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:05.111475+00:00",
+        "risk_type": "no_signal"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:05.227595+00:00",
+        "risk_type": "lane_departure"
+    },
+    {
+        "device_id": "",
+        "vehicle_make": "",
+        "vehicle_model": "",
+        "vehicle_year": "",
+        "location": {
+            "lat": 43.6480065,
+            "lon": -79.7291949
+        },
+        "severity": "low",
+        "timestamp": "2026-04-02T00:05:05.312527+00:00",
+        "risk_type": "no_signal"
+    }
+]
